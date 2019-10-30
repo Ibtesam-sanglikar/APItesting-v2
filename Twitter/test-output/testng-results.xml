@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4789" started-at="2019-10-30T08:48:00Z" finished-at="2019-10-30T08:48:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4789" started-at="2019-10-30T08:48:00Z" finished-at="2019-10-30T08:48:05Z">
+      <class name="RestAssured.Twitter.AllTweets">
+        <test-method status="PASS" signature="init()[pri:0, instance:RestAssured.Twitter.AllTweets@617faa95]" name="init" is-config="true" duration-ms="16" started-at="2019-10-30T14:18:00Z" finished-at="2019-10-30T14:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="run()[pri:0, instance:RestAssured.Twitter.AllTweets@617faa95]" name="run" duration-ms="4708" started-at="2019-10-30T14:18:00Z" finished-at="2019-10-30T14:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- RestAssured.Twitter.AllTweets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+[main] INFO  RestAssured.Twitter.AllTweets  - fetching all tweets of user:
+[main] INFO  RestAssured.Twitter.BlockUser  - blocking user from replying or retweeting from this account
+[main] INFO  RestAssured.Twitter.DisplayName  - displaying tweets containing #qualitest along with their user name
+[main] INFO  RestAssured.Twitter.Search  - fetching tweets with #qualitest
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags of india----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags of UK----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags of US----------
+[main] INFO  RestAssured.Twitter.Trending  - fetching trending hashtags of ISRAEL----------
+[main] INFO  RestAssured.Twitter.Tweet  - posting a tweet ----------
+[main] INFO  RestAssured.Twitter.AllTweets  - fetching all tweets of user:
+[main] INFO  RestAssured.Twitter.AllTweets  - fetching all tweets of specified userIbtesam sanglikar

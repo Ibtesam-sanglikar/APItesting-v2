@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="RestAssured.Twitter.Trending"/>
+      <class name="RestAssured.Twitter.DisplayName"/>
+      <class name="RestAssured.Twitter.BlockUser"/>
+      <class name="RestAssured.Twitter.AllTweets"/>
+      <class name="RestAssured.Twitter.Search"/>
+      <class name="RestAssured.Twitter.Tweet"/>
+      <class name="RestAssured.Twitter.WeatherUpdate"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
